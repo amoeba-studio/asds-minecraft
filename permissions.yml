@@ -1,0 +1,4 @@
+server.basics:
+  description: default
+  default: true
+  children:
